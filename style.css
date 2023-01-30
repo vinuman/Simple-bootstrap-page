@@ -74,6 +74,9 @@ input{
         justify-content: center;
         margin-bottom: -100px;
     }
+    header, footer{
+        min-width:100vw;
+    }
     
     .image-container{
         display: flex;
