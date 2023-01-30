@@ -75,14 +75,14 @@ input{
         margin-bottom: -100px;
     }
     header, footer{
-        min-width:100vw;
+        min-width:100vw !important;
     }
     
     .image-container{
         display: flex;
         flex-direction: column;
         align-items: center;
-        max-width:90vw;
+        max-width:90vw !important;
         
     }
 
